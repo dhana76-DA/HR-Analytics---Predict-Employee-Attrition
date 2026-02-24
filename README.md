@@ -125,3 +125,10 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 
 # LICENSE
 The gem is available as open source under the terms of the MIT License.
+
+
+# SHAP value analysis 
+<img width="782" height="940" alt="SHAP Value" src="https://github.com/user-attachments/assets/9de922a4-fac7-4816-9e04-43fc10934203" />
+
+
+
