@@ -126,9 +126,68 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 # LICENSE
 The gem is available as open source under the terms of the MIT License.
 
+# Results:
+                    Feature  Importance
+13                 JobLevel    0.199181
+21                 OverTime    0.154318
+14                  JobRole    0.101082
+16            MaritalStatus    0.100736
+17            MonthlyIncome    0.067615
+4                 DailyRate    0.058550
+26        TotalWorkingYears    0.052052
+31  YearsSinceLastPromotion    0.047829
+6          DistanceFromHome    0.043576
+30       YearsInCurrentRole    0.028849
+
+# Logistic Regression Accuracy: 86.82%
+Accuracy: 91.22%
+ROC AUC: 0.8824
+
+# -- Logistic Regression Performance ---
+Accuracy: 0.8784
+ROC AUC: 0.8195
+              precision    recall  f1-score   support
+
+           0       0.89      0.98      0.93       248
+           1       0.75      0.38      0.50        48
+
+    accuracy                           0.88       296
+   macro avg       0.82      0.68      0.72       296
+weighted avg       0.87      0.88      0.86       296
+
+# Decision Tree Accuracy: 80.41%
+# --- Decision Tree Performance ---
+Accuracy: 0.8581
+ROC AUC: 0.7105
+              precision    recall  f1-score   support
+
+           0       0.86      0.99      0.92       248
+           1       0.80      0.17      0.28        48
+
+    accuracy                           0.86       296
+   macro avg       0.83      0.58      0.60       296
+weighted avg       0.85      0.86      0.82       296
+
+
+# Reason for the attrition
+Feature Importance Interpretation
+JobLevel 0.199 Primary Predictor. Attrition is tied to the employee's rank/seniority.
+OverTime 0.154 Work-Life Balance. Burnout is a major cause of resignation.
+MonthlyIncome 0.067 Financial. While important, it is actually less influential than JobLevel and OverTime in this specific model.
+Promotion Gap 0.047 Growth. Stagnation contributes but is a secondary factor compared to the daily grind (Overtime).
+
+# Data Analysis Key Findings
+The attrition rate for the 'Human Resources' department is 19.05%.
+The attrition rate for the 'Research & Development' department is 13.75%.
+'Human Resources' exhibits a higher attrition rate (19.05%) compared to 'Research & Development' (13.75%).
+
+# Insights or Next Steps
+Further investigation is recommended to understand the underlying causes of the higher attrition rate in the 'Human Resources' department.
+Consider conducting an in-depth analysis of factors such as workload, compensation, career development opportunities, and employee satisfaction specific to the 'Human Resources' department to inform targeted retention strategies.
 
 # SHAP value analysis 
 <img width="782" height="940" alt="SHAP Value" src="https://github.com/user-attachments/assets/9de922a4-fac7-4816-9e04-43fc10934203" />
 
-
+# ROC Curve Values
+<img width="978" height="778" alt="ROC curve" src="https://github.com/user-attachments/assets/78093d35-b066-4268-a965-c802c0a66004" />
 
