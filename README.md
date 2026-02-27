@@ -202,6 +202,6 @@ Consider conducting an in-depth analysis of factors such as workload, compensati
 
 <img width="641" height="354" alt="Main Dashboard" src="https://github.com/user-attachments/assets/aa80bd03-4449-4a82-bca6-7f5640428df4" />
 
+<img width="662" height="366" alt="Different Attrition" src="https://github.com/user-attachments/assets/49e872a8-8262-4da1-a690-93a3ef90c5da" />
 
-<img width="629" height="365" alt="Different Attrition" src="https://github.com/user-attachments/assets/fa484400-ddef-43a7-af72-020f0221a5a6" />
 
