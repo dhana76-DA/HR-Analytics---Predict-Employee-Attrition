@@ -79,6 +79,12 @@ Dataset Link: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-da
 - CatBoost
 - Warnings
 
+# Tools Used:
+Google Colab
+Excel
+Github
+Power BI
+
 # PREREQUISITES
 - Python Programming
 - Data Science
@@ -191,3 +197,8 @@ Consider conducting an in-depth analysis of factors such as workload, compensati
 # ROC Curve Values
 <img width="978" height="778" alt="ROC curve" src="https://github.com/user-attachments/assets/78093d35-b066-4268-a965-c802c0a66004" />
 
+
+Power Bi Dashboard:
+<img width="641" height="354" alt="Main Dashboard" src="https://github.com/user-attachments/assets/aa80bd03-4449-4a82-bca6-7f5640428df4" />
+
+<img width="641" height="354" alt="Main Dashboard" src="https://github.com/user-attachments/assets/329a9613-e6f7-4bf4-8b73-7ba61bb91f2c" />
