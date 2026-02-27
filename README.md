@@ -198,7 +198,10 @@ Consider conducting an in-depth analysis of factors such as workload, compensati
 <img width="978" height="778" alt="ROC curve" src="https://github.com/user-attachments/assets/78093d35-b066-4268-a965-c802c0a66004" />
 
 
-Power Bi Dashboard:
+# Power Bi Dashboard:
+
 <img width="641" height="354" alt="Main Dashboard" src="https://github.com/user-attachments/assets/aa80bd03-4449-4a82-bca6-7f5640428df4" />
 
-<img width="641" height="354" alt="Main Dashboard" src="https://github.com/user-attachments/assets/329a9613-e6f7-4bf4-8b73-7ba61bb91f2c" />
+
+<img width="629" height="365" alt="Different Attrition" src="https://github.com/user-attachments/assets/fa484400-ddef-43a7-af72-020f0221a5a6" />
+
